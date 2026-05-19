@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Editor
+.vscode/
+*.swp 
+
+
+.jetro/cache.duckdb
+.jetro/daemon/
+.jetro/credentials/
+.jetro/render_queue/
+.jetro/connector_queue/
+.jetro/connections/
+.jetro/context.json
+
+SIGNALDESK_MASTER_PLAN.md
