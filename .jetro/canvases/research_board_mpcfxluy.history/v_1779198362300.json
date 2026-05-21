@@ -1,0 +1,83 @@
+{
+  "name": "Research Board",
+  "elements": [
+    {
+      "id": "mcp-1779186526154-1",
+      "type": "note",
+      "position": {
+        "x": 21.225595799479095,
+        "y": 8.93709296820171
+      },
+      "size": {
+        "width": 500,
+        "height": 200
+      },
+      "data": {
+        "markdown": "# SIGNALDESK\n### AI Investment Committee Workspace\n\nFour specialized analyst agents debate any stock in parallel.\n**Bull · Bear · Macro · Quant** — all firing simultaneously via `asyncio.gather()`.\n\n---\n\n**How to use:**\n1. Type any ticker in the search bar (e.g. `NVDA`, `RELIANCE.NS`, `AAPL`)\n2. Click **ANALYZE →** or press Enter\n3. All 4 analysts respond in under 3 seconds\n4. Read the consensus meter and BUY/HOLD/SELL verdict\n\n> ⚡ Powered by Groq `llama-3.3-70b-versatile` with multi-key rotation + Gemini fallback",
+        "title": "SIGNALDESK",
+        "_filePath": ".jetro/notes/SIGNALDESK.md"
+      },
+      "connections": []
+    },
+    {
+      "id": "mcp-1779186541504-3",
+      "type": "note",
+      "position": {
+        "x": 1040,
+        "y": 260
+      },
+      "size": {
+        "width": 340,
+        "height": 200
+      },
+      "data": {
+        "markdown": "## Research Notes\n\n*Use this space to log your observations as you analyze stocks.*\n\n---\n\n**RELIANCE.NS** — Diversified conglomerate. Bull score high (85) on Jio + retail growth. Bear flagged debt load and margin compression in petrochemicals. Macro neutral — India growth story offset by rate sensitivity. Quant: fairly valued at current P/E.\n\n**Key watch:** Q4 earnings for Jio margin trajectory.\n\n---\n\n**HDFCBANK.NS** — \n\n**TCS.NS** — \n\n**NVDA** — \n\n**AAPL** — ",
+        "title": "Research Notes",
+        "_filePath": ".jetro/notes/Research_Notes.md"
+      },
+      "connections": []
+    },
+    {
+      "id": "mcp-1779186642754-4",
+      "type": "note",
+      "position": {
+        "x": 135.6280719286691,
+        "y": 1267.146202283742
+      },
+      "size": {
+        "width": 500,
+        "height": 200
+      },
+      "data": {
+        "markdown": "## SESSION LOG\n### Tickers analyzed today\n\n| Date | Ticker | Verdict | Score |\n|---|---|---|---|\n| 2026-05-19 | RELIANCE.NS | BUY | 74.2 |\n| 2026-05-19 | DEMO | HOLD | 64.8 |\n\n---\n\n*Add new rows as you analyze more tickers.\nFormat: `YYYY-MM-DD | TICKER | VERDICT | Score: XX.X`*",
+        "title": "SESSION LOG",
+        "_filePath": ".jetro/notes/SESSION_LOG.md"
+      },
+      "connections": []
+    },
+    {
+      "id": "mcp-1779187830805-8",
+      "type": "frame",
+      "position": {
+        "x": -108.40673537220712,
+        "y": 288.0314260955619
+      },
+      "size": {
+        "width": 1000,
+        "height": 680
+      },
+      "data": {
+        "html": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n  body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; }\n  iframe { width: 100%; height: 100%; border: none; }\n</style>\n</head>\n<body>\n  <iframe src=\"http://localhost:5174\"></iframe>\n</body>\n</html>",
+        "title": "SignalDesk App",
+        "_repaintKey": 1779187831894
+      },
+      "connections": []
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 179.22181479646633,
+    "y": 43.90211600999203,
+    "zoom": 1.0000000000000009
+  }
+}

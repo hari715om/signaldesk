@@ -1,0 +1,98 @@
+[
+  {
+    "type": "script_error",
+    "canvasId": "research_board_mpcfxluy",
+    "elementId": "mcp-1779202704592-11",
+    "message": "Refresh script failed: .jetro/scripts/market_data.py",
+    "detail": "Command failed: \"python3\" \"c:\\Projects\\signaldesk\\.jetro\\scripts\\market_data.py\"\nPython was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.\r\n",
+    "hint": "Check the Python script for errors. Run it manually to debug.",
+    "id": "err_1779202708746",
+    "timestamp": "2026-05-19T14:58:28.746Z"
+  },
+  {
+    "type": "script_error",
+    "canvasId": "research_board_mpcfxluy",
+    "elementId": "mcp-1779202882179-12",
+    "message": "Refresh script failed: .jetro/scripts/analyst_trigger.py",
+    "detail": "Command failed: \"python3\" \"c:\\Projects\\signaldesk\\.jetro\\scripts\\analyst_trigger.py\"\nPython was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.\r\n",
+    "hint": "Check the Python script for errors. Run it manually to debug.",
+    "id": "err_1779202884917",
+    "timestamp": "2026-05-19T15:01:24.917Z"
+  },
+  {
+    "type": "script_error",
+    "canvasId": "research_board_mpcfxluy",
+    "elementId": "mcp-1779202704592-11",
+    "message": "Refresh script failed: .jetro/scripts/market_data.py",
+    "detail": "Command failed: \"python3\" \"c:\\Projects\\signaldesk\\.jetro\\scripts\\market_data.py\"\nPython was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.\r\n",
+    "hint": "Check the Python script for errors. Run it manually to debug.",
+    "id": "err_1779203006163",
+    "timestamp": "2026-05-19T15:03:26.163Z"
+  },
+  {
+    "type": "script_error",
+    "canvasId": "research_board_mpcfxluy",
+    "elementId": "mcp-1779202704592-11",
+    "message": "Refresh script failed: .jetro/scripts/market_data.py",
+    "detail": "Command failed: \"python3\" \"c:\\Projects\\signaldesk\\.jetro\\scripts\\market_data.py\"\nPython was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.\r\n",
+    "hint": "Check the Python script for errors. Run it manually to debug.",
+    "id": "err_1779203306194",
+    "timestamp": "2026-05-19T15:08:26.194Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\mcp-1779202882179-12.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779203321976",
+    "timestamp": "2026-05-19T15:08:41.976Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\cmd-1779203899708-21.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779203900261",
+    "timestamp": "2026-05-19T15:18:20.261Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\cmd-1779203907175-22.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779203907603",
+    "timestamp": "2026-05-19T15:18:27.603Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\mcp-1779203954762-23.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779203955241",
+    "timestamp": "2026-05-19T15:19:15.241Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\cmd-1779204029376-25.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779204029722",
+    "timestamp": "2026-05-19T15:20:29.722Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\mcp-1779204713838-29.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779204714192",
+    "timestamp": "2026-05-19T15:31:54.192Z"
+  },
+  {
+    "type": "render_error",
+    "message": "Failed to render element",
+    "detail": "Error: ENOENT: no such file or directory, open 'c:\\Projects\\signaldesk\\.jetro\\render_queue\\cmd-1779204723556-30.json'",
+    "hint": "Check the frame HTML or data for errors.",
+    "id": "err_1779204723942",
+    "timestamp": "2026-05-19T15:32:03.942Z"
+  }
+]

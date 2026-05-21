@@ -162,5 +162,3 @@ The Jetro canvas layer turned a demo into a workspace — the embed + notes pane
 MIT
 
 ---
-
-*Built for Berrywise internship submission | May 2025 | Hari om Singh*

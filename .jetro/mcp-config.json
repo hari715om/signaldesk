@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "command": "C:\\Users\\KIIT0001\\.jetro\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\KIIT0001\\.jetro\\mcp-server\\index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "c:\\Projects\\signaldesk",
+        "JET_API_URL": "https://api.jetro.ai",
+        "JET_JWT": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImVlYzIxN2Q0MThjYjhlNWEzMTQzMThhMGQyZmZhNGUwY2ViMmU0Y2MiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vamV0cm8tY2RhZWYiLCJhdWQiOiJqZXRyby1jZGFlZiIsImF1dGhfdGltZSI6MTc3OTE4MzUyMSwidXNlcl9pZCI6IkQ1bnZUVEthMjdaQ3FoYmRjYXJjZVdZb3RtQTIiLCJzdWIiOiJENW52VFRLYTI3WkNxaGJkY2FyY2VXWW90bUEyIiwiaWF0IjoxNzc5MzY2NjY0LCJleHAiOjE3NzkzNzAyNjQsImVtYWlsIjoic2luZ2gub21oYXJpNzE1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbInNpbmdoLm9taGFyaTcxNUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.OWLmZOA06i40JDCjLK0cPnHaqUfcYC2S44Hcy_hl9VtiJjrmfuAyGzJj_wsUwlvP8hLEKnffiSeeZFG9V979UgT-berHSIO42b0SBHIq8rCjVpLNNo_kVWEuNYiz8y9YFhatOkLwZFbSUOox2VbZdC3vYZXS9afgJFoRe7E7kKeLkpvWPoLMhTHVRzgrjo_L00z2xXzmSWI3Id0ONoyQnYzY3tlq3y_bPHFCYkBo6aiY_m0myORtvFvg-uEvZRQEKmAhBtRVEeytN-yWZiaWQAWdEpDWPMUEOTHg_VEKrvi8HsBLzyLGBdqSExUzOnHcLvPLDb1wmUz5DVbbox53eQ",
+        "PATH": "C:\\Users\\KIIT0001\\.jetro\\runtime;C:\\Program Files\\Android\\Android Studio\\jbr\\bin;C:\\Program Files\\ImageMagick-7.1.1-Q16-HDRI;C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\MinGW\\bin;C:\\ngrok;C:\\Program Files\\MongoDB\\Server\\8.0\\bin;C:\\Users\\KIIT0001\\Downloads\\mongosh-2.4.2-win32-x64\\mongosh-2.4.2-win32-x64\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Git\\cmd;C:\\Users\\KIIT0001\\AppData\\Local\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\nodejs\\;C:\\Program Files\\Amazon\\AWSCLIV2\\;C:\\xampp\\php;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\KIIT0001\\AppData\\Local\\Android\\Sdk;C:\\Users\\KIIT0001\\AppData\\Local\\Android\\Sdk\\platform-tools;C:\\Users\\KIIT0001\\AppData\\Local\\Android\\Sdk\\emulator;C:\\Users\\KIIT0001\\AppData\\Local\\Android\\Sdk\\tools;C:\\Users\\KIIT0001\\AppData\\Local\\Android\\Sdk\\tools\\bin;C:\\Program Files (x86)\\Google\\Cloud SDK\\google-cloud-sdk\\bin;C:\\Users\\KIIT0001\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\KIIT0001\\AppData\\Local\\Programs\\Python\\Python312\\;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\KIIT0001\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\KIIT0001\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\ffmpeg\\bin;C:\\Users\\KIIT0001\\AppData\\Local\\nvm;C:\\nvm4w\\nodejs;C:\\Users\\KIIT0001\\AppData\\Roaming\\npm;C:\\Program Files\\Tesseract-OCR;C:\\php-8.4.8;C:\\nvm4w\\nodejs;C:\\Users\\KIIT0001\\AppData\\Local\\Programs\\Antigravity IDE\\bin"
+      }
+    }
+  }
+}

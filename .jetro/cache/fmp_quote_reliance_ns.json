@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Limited",
+    "price": 1322.7,
+    "changesPercentage": -0.9881,
+    "change": -13.2,
+    "dayLow": 1318.4,
+    "dayHigh": 1344,
+    "yearHigh": 1611.8,
+    "yearLow": 1290,
+    "marketCap": 17899401552992,
+    "priceAvg50": 1376.328,
+    "priceAvg200": 1431.3206,
+    "exchange": "NSE",
+    "volume": 21660577,
+    "avgVolume": 19835119,
+    "open": 1338.7,
+    "previousClose": 1335.9,
+    "eps": 59.74,
+    "pe": 22.14,
+    "earningsAnnouncement": "2026-07-17T10:00:00.000+0000",
+    "sharesOutstanding": 13532472634,
+    "timestamp": 1779184800
+  }
+]
